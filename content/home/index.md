@@ -5,4 +5,4 @@ weight: 0
 
 ---
 
-Software engineer by day, hacker by night
+Love to code and build things
